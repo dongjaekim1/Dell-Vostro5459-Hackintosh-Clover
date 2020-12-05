@@ -1,5 +1,5 @@
 # Dell-Vostro5459-Hackintosh-Clover
-Boot macOS use Clover 5101
+Boot macOS Catalina use Clover 5101
 
 CPU: Intel Core i5 6th Gen 6200U
 
